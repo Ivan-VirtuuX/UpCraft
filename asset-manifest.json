@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4720f303.chunk.css",
+    "main.js": "/static/js/main.ff1e3a9c.chunk.js",
+    "main.js.map": "/static/js/main.ff1e3a9c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a46d2d6d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a46d2d6d.js.map",
+    "static/js/2.6c8ca8e1.chunk.js": "/static/js/2.6c8ca8e1.chunk.js",
+    "static/js/2.6c8ca8e1.chunk.js.map": "/static/js/2.6c8ca8e1.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d92eed19ae78265a44208b205a61184a.js": "/precache-manifest.d92eed19ae78265a44208b205a61184a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.4720f303.chunk.css.map": "/static/css/main.4720f303.chunk.css.map",
+    "static/js/2.6c8ca8e1.chunk.js.LICENSE.txt": "/static/js/2.6c8ca8e1.chunk.js.LICENSE.txt",
+    "static/media/UpClassic.jpg": "/static/media/UpClassic.7d1d4a0b.jpg",
+    "static/media/UpMagic.jpg": "/static/media/UpMagic.a58d72ed.jpg",
+    "static/media/UpMagicRpg.jpg": "/static/media/UpMagicRpg.b1cefca9.jpg",
+    "static/media/UpRpg.jpg": "/static/media/UpRpg.3eb882c4.jpg",
+    "static/media/background.jpg": "/static/media/background.8c20307f.jpg",
+    "static/media/linux.svg": "/static/media/linux.a000e4fd.svg",
+    "static/media/windows.svg": "/static/media/windows.99edd2f6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a46d2d6d.js",
+    "static/js/2.6c8ca8e1.chunk.js",
+    "static/css/main.4720f303.chunk.css",
+    "static/js/main.ff1e3a9c.chunk.js"
+  ]
+}
