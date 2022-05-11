@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/UpCraft/static/css/main.e79e6c2b.chunk.css",
-    "main.js": "/UpCraft/static/js/main.6ed174da.chunk.js",
-    "main.js.map": "/UpCraft/static/js/main.6ed174da.chunk.js.map",
+    "main.css": "/UpCraft/static/css/main.3db11913.chunk.css",
+    "main.js": "/UpCraft/static/js/main.a1da861a.chunk.js",
+    "main.js.map": "/UpCraft/static/js/main.a1da861a.chunk.js.map",
     "runtime-main.js": "/UpCraft/static/js/runtime-main.e9375faa.js",
     "runtime-main.js.map": "/UpCraft/static/js/runtime-main.e9375faa.js.map",
-    "static/js/2.1112cabc.chunk.js": "/UpCraft/static/js/2.1112cabc.chunk.js",
-    "static/js/2.1112cabc.chunk.js.map": "/UpCraft/static/js/2.1112cabc.chunk.js.map",
+    "static/js/2.dc07ea47.chunk.js": "/UpCraft/static/js/2.dc07ea47.chunk.js",
+    "static/js/2.dc07ea47.chunk.js.map": "/UpCraft/static/js/2.dc07ea47.chunk.js.map",
     "index.html": "/UpCraft/index.html",
-    "precache-manifest.849907704a7aa867853a76b2b3d896e7.js": "/UpCraft/precache-manifest.849907704a7aa867853a76b2b3d896e7.js",
+    "precache-manifest.67199070ab0c0ca03f266f619b2d9e62.js": "/UpCraft/precache-manifest.67199070ab0c0ca03f266f619b2d9e62.js",
     "service-worker.js": "/UpCraft/service-worker.js",
-    "static/css/main.e79e6c2b.chunk.css.map": "/UpCraft/static/css/main.e79e6c2b.chunk.css.map",
-    "static/js/2.1112cabc.chunk.js.LICENSE.txt": "/UpCraft/static/js/2.1112cabc.chunk.js.LICENSE.txt",
+    "static/css/main.3db11913.chunk.css.map": "/UpCraft/static/css/main.3db11913.chunk.css.map",
+    "static/js/2.dc07ea47.chunk.js.LICENSE.txt": "/UpCraft/static/js/2.dc07ea47.chunk.js.LICENSE.txt",
     "static/media/UpClassic.jpg": "/UpCraft/static/media/UpClassic.7d1d4a0b.jpg",
     "static/media/UpMagic.jpg": "/UpCraft/static/media/UpMagic.a58d72ed.jpg",
     "static/media/UpMagicRpg.jpg": "/UpCraft/static/media/UpMagicRpg.b1cefca9.jpg",
@@ -19,12 +19,14 @@
     "static/media/background.jpg": "/UpCraft/static/media/background.8c20307f.jpg",
     "static/media/linux.svg": "/UpCraft/static/media/linux.a000e4fd.svg",
     "static/media/newsBackground.jpg": "/UpCraft/static/media/newsBackground.b501919a.jpg",
+    "static/media/newsBackground2.jpg": "/UpCraft/static/media/newsBackground2.5a764078.jpg",
+    "static/media/newsBackground3.jpg": "/UpCraft/static/media/newsBackground3.a5c40e5a.jpg",
     "static/media/windows.svg": "/UpCraft/static/media/windows.99edd2f6.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.e9375faa.js",
-    "static/js/2.1112cabc.chunk.js",
-    "static/css/main.e79e6c2b.chunk.css",
-    "static/js/main.6ed174da.chunk.js"
+    "static/js/2.dc07ea47.chunk.js",
+    "static/css/main.3db11913.chunk.css",
+    "static/js/main.a1da861a.chunk.js"
   ]
 }

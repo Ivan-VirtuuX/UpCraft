@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d16d656c54e03d50371646267cbd3ded",
+    "revision": "ed45db0bd1f5433dc319c29e0d8469af",
     "url": "/UpCraft/index.html"
   },
   {
-    "revision": "3dc5c124c3cdf2e2bdb0",
-    "url": "/UpCraft/static/css/main.e79e6c2b.chunk.css"
+    "revision": "0d0461a8b52da3594381",
+    "url": "/UpCraft/static/css/main.3db11913.chunk.css"
   },
   {
-    "revision": "a914d1696254266f07aa",
-    "url": "/UpCraft/static/js/2.1112cabc.chunk.js"
+    "revision": "70366e29a67cd7b2e505",
+    "url": "/UpCraft/static/js/2.dc07ea47.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/UpCraft/static/js/2.1112cabc.chunk.js.LICENSE.txt"
+    "url": "/UpCraft/static/js/2.dc07ea47.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3dc5c124c3cdf2e2bdb0",
-    "url": "/UpCraft/static/js/main.6ed174da.chunk.js"
+    "revision": "0d0461a8b52da3594381",
+    "url": "/UpCraft/static/js/main.a1da861a.chunk.js"
   },
   {
     "revision": "a84d58e7b6eb9f212fc2",
@@ -50,6 +50,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b501919aa5651416d9f994fb4f120950",
     "url": "/UpCraft/static/media/newsBackground.b501919a.jpg"
+  },
+  {
+    "revision": "5a764078d86b9391bf1fd28370ea1e3e",
+    "url": "/UpCraft/static/media/newsBackground2.5a764078.jpg"
+  },
+  {
+    "revision": "a5c40e5a3060376358a6e5f9032c8db8",
+    "url": "/UpCraft/static/media/newsBackground3.a5c40e5a.jpg"
   },
   {
     "revision": "99edd2f6f7d265f6fd19903a370db40c",
