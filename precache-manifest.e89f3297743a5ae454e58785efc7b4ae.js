@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ed45db0bd1f5433dc319c29e0d8469af",
+    "revision": "bdbc2a17706e16114cdd058b4405212e",
     "url": "/UpCraft/index.html"
   },
   {
-    "revision": "0d0461a8b52da3594381",
-    "url": "/UpCraft/static/css/main.3db11913.chunk.css"
+    "revision": "9c89621b53e6616cb2d5",
+    "url": "/UpCraft/static/css/main.47cdf73f.chunk.css"
   },
   {
-    "revision": "70366e29a67cd7b2e505",
-    "url": "/UpCraft/static/js/2.dc07ea47.chunk.js"
+    "revision": "de3b8fb834a36e2ead94",
+    "url": "/UpCraft/static/js/2.f4342385.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/UpCraft/static/js/2.dc07ea47.chunk.js.LICENSE.txt"
+    "url": "/UpCraft/static/js/2.f4342385.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0d0461a8b52da3594381",
-    "url": "/UpCraft/static/js/main.a1da861a.chunk.js"
+    "revision": "9c89621b53e6616cb2d5",
+    "url": "/UpCraft/static/js/main.1bc47345.chunk.js"
   },
   {
     "revision": "a84d58e7b6eb9f212fc2",
@@ -44,8 +44,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/UpCraft/static/media/background.8c20307f.jpg"
   },
   {
+    "revision": "82a3ec46e2a266433db89f3f051da83b",
+    "url": "/UpCraft/static/media/chaotic.82a3ec46.png"
+  },
+  {
     "revision": "a000e4fdaf21b7865fa5a661363b1e25",
     "url": "/UpCraft/static/media/linux.a000e4fd.svg"
+  },
+  {
+    "revision": "8f04cc51b46da4ea1e05a48ff751c01f",
+    "url": "/UpCraft/static/media/master.8f04cc51.png"
   },
   {
     "revision": "b501919aa5651416d9f994fb4f120950",
@@ -56,8 +64,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/UpCraft/static/media/newsBackground2.5a764078.jpg"
   },
   {
-    "revision": "a5c40e5a3060376358a6e5f9032c8db8",
-    "url": "/UpCraft/static/media/newsBackground3.a5c40e5a.jpg"
+    "revision": "7b5d535f7ee6b8670a8b67f28cf1df86",
+    "url": "/UpCraft/static/media/premium.7b5d535f.png"
+  },
+  {
+    "revision": "e6fb27c55293da5a544950dd82da03a3",
+    "url": "/UpCraft/static/media/vip.e6fb27c5.png"
   },
   {
     "revision": "99edd2f6f7d265f6fd19903a370db40c",

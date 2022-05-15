@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/UpCraft/precache-manifest.67199070ab0c0ca03f266f619b2d9e62.js"
+  "/UpCraft/precache-manifest.e89f3297743a5ae454e58785efc7b4ae.js"
 );
 
 self.addEventListener('message', (event) => {
