@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bdbc2a17706e16114cdd058b4405212e",
+    "revision": "1a53b7cfcc714582f0f67dbf2bd1fcb1",
     "url": "/UpCraft/index.html"
   },
   {
-    "revision": "9c89621b53e6616cb2d5",
+    "revision": "af3a5885cc7d41feaee4",
     "url": "/UpCraft/static/css/main.47cdf73f.chunk.css"
   },
   {
-    "revision": "de3b8fb834a36e2ead94",
-    "url": "/UpCraft/static/js/2.f4342385.chunk.js"
+    "revision": "60824a7dc155edf0c637",
+    "url": "/UpCraft/static/js/2.9e84a052.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/UpCraft/static/js/2.f4342385.chunk.js.LICENSE.txt"
+    "url": "/UpCraft/static/js/2.9e84a052.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9c89621b53e6616cb2d5",
-    "url": "/UpCraft/static/js/main.1bc47345.chunk.js"
+    "revision": "af3a5885cc7d41feaee4",
+    "url": "/UpCraft/static/js/main.03df339b.chunk.js"
   },
   {
     "revision": "a84d58e7b6eb9f212fc2",

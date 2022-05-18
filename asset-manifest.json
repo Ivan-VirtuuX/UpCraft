@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/UpCraft/static/css/main.47cdf73f.chunk.css",
-    "main.js": "/UpCraft/static/js/main.1bc47345.chunk.js",
-    "main.js.map": "/UpCraft/static/js/main.1bc47345.chunk.js.map",
+    "main.js": "/UpCraft/static/js/main.03df339b.chunk.js",
+    "main.js.map": "/UpCraft/static/js/main.03df339b.chunk.js.map",
     "runtime-main.js": "/UpCraft/static/js/runtime-main.e9375faa.js",
     "runtime-main.js.map": "/UpCraft/static/js/runtime-main.e9375faa.js.map",
-    "static/js/2.f4342385.chunk.js": "/UpCraft/static/js/2.f4342385.chunk.js",
-    "static/js/2.f4342385.chunk.js.map": "/UpCraft/static/js/2.f4342385.chunk.js.map",
+    "static/js/2.9e84a052.chunk.js": "/UpCraft/static/js/2.9e84a052.chunk.js",
+    "static/js/2.9e84a052.chunk.js.map": "/UpCraft/static/js/2.9e84a052.chunk.js.map",
     "index.html": "/UpCraft/index.html",
-    "precache-manifest.e89f3297743a5ae454e58785efc7b4ae.js": "/UpCraft/precache-manifest.e89f3297743a5ae454e58785efc7b4ae.js",
+    "precache-manifest.4f2d41f727138d19f8822f05375f02c6.js": "/UpCraft/precache-manifest.4f2d41f727138d19f8822f05375f02c6.js",
     "service-worker.js": "/UpCraft/service-worker.js",
     "static/css/main.47cdf73f.chunk.css.map": "/UpCraft/static/css/main.47cdf73f.chunk.css.map",
-    "static/js/2.f4342385.chunk.js.LICENSE.txt": "/UpCraft/static/js/2.f4342385.chunk.js.LICENSE.txt",
+    "static/js/2.9e84a052.chunk.js.LICENSE.txt": "/UpCraft/static/js/2.9e84a052.chunk.js.LICENSE.txt",
     "static/media/UpClassic.jpg": "/UpCraft/static/media/UpClassic.7d1d4a0b.jpg",
     "static/media/UpMagic.jpg": "/UpCraft/static/media/UpMagic.a58d72ed.jpg",
     "static/media/UpMagicRpg.jpg": "/UpCraft/static/media/UpMagicRpg.b1cefca9.jpg",
@@ -28,8 +28,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.e9375faa.js",
-    "static/js/2.f4342385.chunk.js",
+    "static/js/2.9e84a052.chunk.js",
     "static/css/main.47cdf73f.chunk.css",
-    "static/js/main.1bc47345.chunk.js"
+    "static/js/main.03df339b.chunk.js"
   ]
 }
